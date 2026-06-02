@@ -1,0 +1,24 @@
+[2026-06-02 19:55:17.511624]
+You: hi
+Bot: Hello! How can I help you today?
+
+[2026-06-02 19:55:30.544445]
+You: what is ai
+Bot: AI stands for Artificial Intelligence, enabling machines to mimic human intelligence.
+
+[2026-06-02 19:55:40.713096]
+You: how are you
+Bot: I'm doing great! Thanks for asking.
+
+[2026-06-02 19:55:50.583875]
+You: help
+Bot: I can:
+1. Greet you
+2. Answer AI-related questions
+3. Chat with you
+4. Log conversation history
+
+[2026-06-02 19:55:59.571147]
+You: exit
+Bot: Goodbye!
+
